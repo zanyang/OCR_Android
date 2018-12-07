@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> init commit
+*/build
+.idea
+
+将删除 .gitignore
+将删除 .idea/caches/
+将删除 .idea/codeStyles/
+将删除 .idea/dbnavigator.xml
+将删除 .idea/encodings.xml
+将删除 .idea/gradle.xml
+将删除 .idea/inspectionProfiles/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/runConfigurations.xml
+将删除 README.md
+将删除 app/.gitignore
+将删除 app/build.gradle
+将删除 app/google-services.json
+将删除 app/proguard-rules.pro
+将删除 app/src/
+将删除 build.gradle
+将删除 gradle.properties
+将删除 gradle/
+将删除 gradlew
+将删除 gradlew.bat
+将删除 settings.gradle

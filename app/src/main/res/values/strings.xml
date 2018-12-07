@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">仿小猿搜题</string>
+    <string name="open_camera_fail">摄像头打开失败！</string>
+    <string name="take_photo_hint">将定位框定位到\n题干位置识别率更高哦</string>
+</resources>
